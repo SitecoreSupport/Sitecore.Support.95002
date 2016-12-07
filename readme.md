@@ -1,5 +1,5 @@
 # Sitecore.Support.95002
-The following helper renders the `Multi-Line Text` field in one line:<br/>
+The following Sitecore MVC helper renders the `Multi-Line Text` field in one line:<br/>
 `@Html.Sitecore().Field("FieldName")`<br/>
 This patch fixes the described behavior.
 
